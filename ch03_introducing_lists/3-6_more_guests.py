@@ -40,7 +40,7 @@ names.insert(2, "50 Cent")
 # Appends a guest to the end of the list
 names.append("Ice Cube")
 
-# Prints all those who are now attending the party
+# Prints all those who are now attending the party.
 print("\nThese are the final people who have been invited:")
 print(f"Hello {names[0]}, You are invited to the dinner party")
 print(f"Hello {names[1]}, You are invited to the dinner party")
